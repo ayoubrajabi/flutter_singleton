@@ -1,16 +1,16 @@
-# flutter_singleton
+![enter image description here](https://s6.uupload.ir/files/flutter-singleton_ahd2.png)
+# What Is a Singleton?
 
-A new Flutter project.
+## The singleton pattern is a software design pattern that restricts the instantiation of a class to one "single" instance.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+. Ensure that a class only has one instance
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+. Easily access the sole instance of a class
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+. Control its instantiation
+
+. Restrict the number of instances
+
+. Access a global variable
