@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_singleton/injection_container.dart';
 
 import 'pages/first_page.dart';
 
 void main() {
+  init();
   runApp(const MyApp());
 }
 
