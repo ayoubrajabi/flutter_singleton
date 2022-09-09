@@ -1,5 +1,5 @@
-import 'package:flutter_singleton/models/sample_model.dart';
 import 'package:get_it/get_it.dart';
+import 'package:flutter_singleton/models/sample_model.dart';
 
 final sl = GetIt.instance;
 
